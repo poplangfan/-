@@ -1,9 +1,9 @@
 # General-programming-basics
 
 欢迎关注微信公众号“Python小灶，和我一起每天学习Python新知识”
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200328210638482.png)
 
-@[toc]
 ### 说明
 
 各语言通用入门编程，欢迎大家补充。语言是相通的，尤其是基础语法：输入输出、判断、循环等等；
